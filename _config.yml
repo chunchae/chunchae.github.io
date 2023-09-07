@@ -1,25 +1,23 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Jason Cho
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  The beautiful website of engineer, cyclist, musiction, and travller, Jason Cho.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: A highly technical and experienced professional, capable of understanding the complexities of large IT environments and enterprise applications. 
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+    url: https://github.com/chunchae
+  - platform: instagram
+    url: https://www.instagram.com/__jason.kr__/
+  - platform: strava
+    url: https://www.strava.com/athletes/jasonkr
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
+# url: http://jason.kr
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
