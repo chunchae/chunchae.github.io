@@ -1,5 +1,5 @@
 # Your Name or Company
-title: jason cho
+title: jason cho 
 
 # Description of your website. This is used for social sharing.
 description:  the site of engineer, cyclist, musiction, and travller, Jason Cho.
@@ -9,8 +9,8 @@ content: a highly technical and experienced professional, capable of understandi
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/chunchae
+#  - platform: github
+#    url: https://github.com/chunchae
   - platform: instagram
     url: https://www.instagram.com/__jason.kr__/
   - platform: strava
