@@ -16,6 +16,8 @@ social:
     url: https://www.instagram.com/__jason.kr__/
   - platform: strava
     url: https://www.strava.com/athletes/jasonkr
+  - platform: mail
+    url: "mailto:admin@jason.kr"
 
 # General settings
 # url: http://jason.kr
