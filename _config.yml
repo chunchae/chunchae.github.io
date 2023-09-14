@@ -17,7 +17,7 @@ social:
   - platform: strava
     url: https://www.strava.com/athletes/jasonkr
   - platform: mail
-    url: "mailto:admin@jason.kr"
+    url: "mailto:jason@jason.kr"
 
 # General settings
 # url: http://jason.kr
