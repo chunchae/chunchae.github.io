@@ -1,12 +1,12 @@
 # Your Name or Company
-title: jason cho 
+title: jason cho
 
 # Description of your website. This is used for social sharing.
-description:  the site of engineer, cyclist, musiction, and travller, Jason Cho.
+description:  web of jason
 
 # A brief blurb about yourself
 # content: a highly technical and experienced professional, capable of understanding the complexities of large IT environments and enterprise applications. 
-content : Graduated with a master's degree in computer engineering from Yonsei University, I have over 20 years of experience working in IT dept. of Samsung HQ & China. I am a fluent speaker of Korean, English & Chinese, and also a passionate amateur cyclist.
+content : "#sap #software #engineer #projectmanager #datascientist #samsung #masterofscience #computerengineering #yonsei #trilingual #korean #english #mandarinchinese #intj #amateurcyclist #christian"
 
 # Add your social links
 social:
@@ -16,6 +16,8 @@ social:
     url: https://www.instagram.com/__jason.kr__/
   - platform: strava
     url: https://www.strava.com/athletes/jasonkr
+  - platform: mail
+    url: "mailto:jason@jason.kr"
 
 # General settings
 # url: http://jason.kr
