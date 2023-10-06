@@ -1,4 +1,4 @@
-![Uni Jekyll Theme](/assets/img/share.jpg)
+##![Uni Jekyll Theme](/assets/img/share.jpg)
 
 # Uni – A one-page Jekyll theme
 
