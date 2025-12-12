@@ -1,17 +1,17 @@
 # Your Name or Company
-title: jason cho
+title: jason.kr
 
 # Description of your website. This is used for social sharing.
-description:  web of jason
+description: all about jason
 
 # A brief blurb about yourself
-# content: a highly technical and experienced professional, capable of understanding the complexities of large IT environments and enterprise applications. 
-content : "#sap #software #engineer #projectmanager #datascientist #samsung #masterofscience #computerengineering #yonsei #trilingual #korean #english #mandarinchinese #intj #cyclingenthusiast #christian"
+# content: a highly technical and experienced professional, capable of understanding the complexities of large IT environments and enterprise applications.
+content: "#sap #software #engineer #projectmanager #datascientist #samsung #masterofscience #computerengineering #yonsei #trilingual #korean #english #mandarinchinese #intj #cyclingenthusiast #christian"
 
 # Add your social links
 social:
-#  - platform: github
-#    url: https://github.com/chunchae
+  #  - platform: github
+  #    url: https://github.com/chunchae
   - platform: instagram
     url: https://www.instagram.com/__jason.kr__/
   - platform: strava
@@ -21,7 +21,7 @@ social:
 
 # General settings
 # url: http://jason.kr
-# baseurl: "/uni" 
+# baseurl: "/uni"
 markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "G-ZG3JH5H3VT" # google analytics tracking
